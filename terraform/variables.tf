@@ -3,5 +3,5 @@ variable "AWS_REGION" {
 }
 
 variable "ACCOUNT_NAME" {
-   default = "jupiter29"
+   default = "jupiter30"
 }
