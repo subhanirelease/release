@@ -3,5 +3,5 @@ variable "AWS_REGION" {
 }
 
 variable "ACCOUNT_NAME" {
-   default = "BUCKET_NAME"
+   default = "BUCKET_NAME-riq"
 }
